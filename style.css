@@ -1,0 +1,43 @@
+body {
+  font-family: 'Siyam Rupali', sans-serif;
+  background: #f7f7f7;
+  color: #222;
+  margin: 0;
+  padding: 0;
+}
+header {
+  background-color: #005f50;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+nav a {
+  margin: 0 10px;
+  color: white;
+  text-decoration: none;
+}
+main {
+  padding: 20px;
+  max-width: 800px;
+  margin: auto;
+}
+footer {
+  background-color: #003c35;
+  color: white;
+  text-align: center;
+  padding: 10px;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+form label {
+  display: block;
+  margin: 10px 0;
+}
+button {
+  background-color: #005f50;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+}
